@@ -1,3 +1,4 @@
+#Crump YT video on this https://youtu.be/AkKbPhK83bE 
 # Using this quarto course blog template
 
 This is a template for using [quarto](https://quarto.org) to create a course blog. A course blog can be used in many ways to engage with course content. For example, you could use the blog to post assignments, or to dive more deeply into course material that interests you. By the end of the course, your blog can serve as a portfolio of ways that you engaged in the material. By learning how to use quarto for your blog, you will also be learning new skills for creating and sharing reproducible documents that could be useful to you in the future.
